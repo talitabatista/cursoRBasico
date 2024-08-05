@@ -1,5 +1,5 @@
 
-# BMClima - Introdução ao R
+# BMClima - Introdução ao R TALITA BATISTA
 
 Curso preparatório às atividades relacionadas ao projeto 
 [Relationship between climate variables and the incidence of acute bronchiolitis in children under five years old in Brazilian municipalities in the last 20 years](https://osf.io/edwbs/)
